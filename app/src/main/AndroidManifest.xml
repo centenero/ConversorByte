@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.cente.holamundo" >
+    package="es.informaticosmurcia.conversorbytes" >
 
     <application
         android:allowBackup="true"

@@ -1,11 +1,14 @@
 <resources>
-    <string name="app_name">holaMundo</string>
+    <string name="app_name">Conversor Bytes</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string-array name="listaParaConvertir">
-        <item>Array Item One</item>
-        <item>Array Item Two</item>
-        <item>Array Item Three</item>
+        <item>bit(b)</item>
+        <item>byte(B)</item>
+        <item>kilobyte(kB)</item>
+        <item>megabyte(MB)</item>
+        <item>gigabyte(GB)</item>
+        <item>terabyte(TB)</item>
     </string-array>
 </resources>
